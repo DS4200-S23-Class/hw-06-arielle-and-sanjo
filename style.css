@@ -1,0 +1,35 @@
+/* font on website is Arial*/ 
+body {
+    font-family: Arial;
+
+}
+
+/*align the text in the center*/
+.center {
+    text-align: center;
+  }
+
+/*make the font size of the acknowledgments smaller*/
+#smaller{
+    font-size: 18px;
+}
+
+  /* creating three even columns */
+.container {
+    display: flex;
+  }
+  
+  .first-column {
+    width:33.33%;
+    padding: 20px;
+  }
+  
+  .second-column {
+    width: 33.33%;
+    padding: 20px;
+  }
+  
+  .third-column {
+    width: 33.33%;
+    padding: 20px;
+  }
