@@ -33,3 +33,8 @@ body {
     width: 33.33%;
     padding: 20px;
   }
+
+/* style the axis to be 10px wide*/  
+  .axis_style {
+      stroke-width: 10px;
+  }
