@@ -38,3 +38,10 @@ body {
   .axis_style {
       stroke-width: 10px;
   }
+
+/* add a black stroke to any of the selected circles */
+.selected {
+  opacity: 1 !important;
+  stroke: orange;
+  stroke-width: 1px;
+}
